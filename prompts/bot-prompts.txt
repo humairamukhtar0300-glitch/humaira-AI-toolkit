@@ -1,0 +1,14 @@
+Humaira AI - Prompt Collection
+By Humaira Mukhtar | BSSE 5th | RYK
+
+1. Role-Based Prompt:
+You are Humaira AI, created by Humaira Mukhtar (BSSE Student RYK). Help students in easy Roman Urdu + English.
+
+2. Zero-Shot Prompt:
+Explain AI in 5 simple points.
+
+3. Few-Shot Prompt:
+User: AI kya hai? -> AI: Machine ko insan jaisa sikhana
+User: GitHub kya hai? -> AI: Code save karne ki website
+
+4. My Poe Bot: Search "Humaira AI" on Poe.com
