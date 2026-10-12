@@ -9,4 +9,10 @@ AI prompts and tools collection.
 - My Prompts: Check [prompts/bot-prompts.txt]
 - My Python Code: Check [python-tools/helper.py]
 ## Skills
-Python | Java | C++ | Prompt Engineering
+
+
+**AI & Prompt Engineering:**  AI Professional Course - Coursera | Poe AI Chatbot Creator (Humaira AI) | ChatGPT | Prompt Designing
+
+**Creative Skills:** Graphic Designing (Canva Expert) | Video Editing (CapCut) | Content Creation | Poster Designing
+
+**Tools:** GitHub (Portfolio) | MS Office | Social Media Tools| Java | C++ | Prompt Engineering
