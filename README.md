@@ -5,6 +5,7 @@ AI prompts and tools collection.
 
 ## Projects
 - Poe Bot: Humaira AI
+- - **My Poe Bot:** [Humaira AI - Click to Chat](https://poe.com/Humaira-AI) 
 - This GitHub Toolkit
 - My Prompts: Check [prompts/bot-prompts.txt]
 - My Python Code: Check [python-tools/helper.py]
